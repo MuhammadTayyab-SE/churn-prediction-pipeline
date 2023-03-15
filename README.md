@@ -1,4 +1,4 @@
-# Churn Prediction Pipeline
+# Employee Churn Prediction Pipeline
 ⚡ Code for machine Learning Pipeline with Scikit-learn ⚡
 
 Custom Sk-Learn pipeline with custom Transformers and Estimators.
