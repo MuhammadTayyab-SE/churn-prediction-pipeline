@@ -11,7 +11,7 @@ In this pipeline we are using custom Transformers and custom estimators
 
  - **feature_selection_trasformer**: This transformer implement the feature selection part by selecting specific feature using Pearson correlation on the bases of specific **threshold**.
 
-## **Estimators**:
+## ![**Estimators**](https://github.com/MuhammadTayyab-SE/churn-prediction-pipeline/tree/main/estimators):
  - **Logistic Regression Estimator**: This estimator contain *logistic Regression Classifier* along with *Hyper-parameter tuning* using *Hyperopt*.
 
  - **Random Forest Estimator**: This estimator contain *Random Forest Classifier* along with *Hyper-Parameter tuning* using *Hyperopt*.
